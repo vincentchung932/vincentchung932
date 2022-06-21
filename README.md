@@ -12,7 +12,7 @@
 
 - 🧠 Fun facts about me: I was a **battery engineer**
 
-- ☕ If you found my github is useful you can support me: [buymeacoffee](https://www.buymeacoffee.com/chienhsin)
+- ☕ Support me: [buymeacoffee](https://www.buymeacoffee.com/chienhsin)
 <br>
 
 <h2 align="left">About me:</h2>
