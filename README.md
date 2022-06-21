@@ -8,9 +8,11 @@
 
 - 🙌🏻 I’m looking to collaborate on **some React project**
 
-- 📫 How to reach me **zhongqianxinqqq@gmail.com**
+- 📫 How to reach me: **zhongqianxinqqq@gmail.com**
 
 - 🧠 Fun facts about me: I was a **battery engineer**
+
+- ☕ If you found my github is useful you can support me: [buymeacoffee](https://www.buymeacoffee.com/chienhsin)
 <br>
 
 <h2 align="left">About me:</h2>
