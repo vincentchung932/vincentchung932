@@ -16,7 +16,7 @@
 <br>
 
 <h2 align="left">About me:</h2>
-I'm ChienHsin, currently a full stack developer in San Jose,CA. I'm passionate about using my skill in web developing to make the world a better place.
+I'm ChienHsin, currently a full stack developer in San Jose,CA. I'm passionate about using my skill in web developing to make the world a better place. 
 <p align="left">
 </p>
 
