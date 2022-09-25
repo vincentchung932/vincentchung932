@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **zhongqianxinqqq@gmail.com**
 
-- 🧠 Fun facts about me: I was a **battery engineer**
+- 🧠 Fun facts about me: I was a **battery engineer** and I love to bake.
 
 - ☕ Support me: [buymeacoffee](https://www.buymeacoffee.com/chienhsin)
 <br>
