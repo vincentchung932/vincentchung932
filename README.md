@@ -16,7 +16,7 @@
 <br>
 
 <h2 align="left">About me:</h2>
-I'm ChienHsin, currently a full stack developer in San Jose,CA. I'm passionate about using my skill in web developing to make the world a better place. 
+Hi! I'm ChienHsin, a full stack developer. With 3-year experience of battery control algorithms development background, I built a strong logic in programming and extensive problem solving and analytical skills. I have a deep passion in new technology, blockchain, AI or clean vehicle.  
 <p align="left">
 </p>
 
